@@ -1,5 +1,5 @@
 {
-  "name": "weixin-pay",
+  "name": "weixin-pay-huidu",
   "version": "1.1.7",
   "description": "weixin payment",
   "main": "index.js",
@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tvrcgo/weixin-pay.git"
+    "url": "https://github.com/shenggen1987/weixin-pay-huidu.git"
   },
   "keywords": [
     "weixin",
     "wechat",
     "payment"
   ],
-  "author": "tvrcgo",
+  "author": "shenggen1987",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tvrcgo/weixin-pay/issues"
+    "url": "https://github.com/shenggen1987/weixin-pay-huidu/issues"
   },
-  "homepage": "https://github.com/tvrcgo/weixin-pay"
+  "homepage": "https://github.com/shenggen1987/weixin-pay-huidu"
 }
