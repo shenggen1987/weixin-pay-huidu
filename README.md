@@ -1,4 +1,4 @@
-# weixin-pay
+# weixin-pay-huidu
 微信支付 for node.js
 
 [![npm version](https://badge.fury.io/js/weixin-pay.svg)](http://badge.fury.io/js/weixin-pay)
@@ -12,7 +12,7 @@ npm install weixin-pay
 
 创建统一支付订单
 ```js
-var WXPay = require('weixin-pay');
+var WXPay = require('weixin-pay-huidu');
 
 var wxpay = WXPay({
 	appid: 'xxxxxxxx',
